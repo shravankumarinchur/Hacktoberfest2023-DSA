@@ -82,3 +82,7 @@ int main()
     cout<<endl;
     }
 }  // } Driver Code Ends
+
+
+// time complexity of the code is O(n)
+// space complexity of code is O(1)
